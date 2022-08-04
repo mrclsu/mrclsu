@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My website: [mrclsu.space](mrclsu.space)
+### My website: [mrclsu.space](https://mrclsu.space)
 
 <!--
 **mrclsu/mrclsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
